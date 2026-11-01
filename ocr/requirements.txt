@@ -1,0 +1,10 @@
+paddlex==3.7.2
+paddlepaddle-gpu==3.0.0
+paddleocr==3.7.0
+opencv-python-headless==5.0.0.93
+numpy<2
+pillow==12.3.0
+PyYAML==6.0.2
+shapely==2.1.2
+tqdm==4.69.0
+pyclipper==1.4.0

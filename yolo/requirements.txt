@@ -1,0 +1,8 @@
+ultralytics==8.4.96
+opencv-python==5.0.0.93
+pymupdf==1.28.0
+numpy<2
+pillow==12.3.0
+PyYAML==6.0.2
+tqdm==4.69.0
+matplotlib==3.11.0
